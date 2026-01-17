@@ -186,6 +186,7 @@ public class cadastroVIEW extends javax.swing.JFrame {
         //</editor-fold>
 
         /* Create and display the form */
+        // Tela principal definida como cadastroVIEW
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new cadastroVIEW().setVisible(true);
